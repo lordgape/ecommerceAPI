@@ -8,8 +8,7 @@
 
 namespace App\Exceptions;
 
-define("MODEL_NOT_FOUND_ERROR_CODE",1002);
-define("HTTP_NOT_FOUND_ERROR_CODE",1003);
+
 
 
 
